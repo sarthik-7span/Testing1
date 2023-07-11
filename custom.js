@@ -1565,10 +1565,14 @@ async function name() {
     document.getElementById("display").innerHTML = await issue
 }
 name()
-
-
 $(document).ready(function () {
     $('#display').on('click', function () {
         $('.match').addClass('highlight');
     });
 });
+
+// $(document).ready(function () {
+//     $('#display').on('click', function () {
+//         $('.match').addClass('highlight');
+//     });
+// });
