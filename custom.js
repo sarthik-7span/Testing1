@@ -7,19 +7,6 @@
 // let x = 2;
 // let z = 8*x;
 
-// console.log(Math.pow(x,y))
-// document.getElementsByClassName("hello")[0].innerHTML = z;
-
-
-// const family = {
-//     father: "jethalal",
-//     mother: "dayaben",
-//     son: "tapu"
-// }
-// console.log(family["mother"])
-
-
-
 // function uppercase() {
 //     document.getElementById("input-field").value = document.getElementById("input-field").value.toUpperCase();
 // }
