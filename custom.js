@@ -16,22 +16,12 @@
 //     mother: "dayaben",
 //     son: "tapu"
 // }
-// console.log(family["mother"])
-
 
 
 // function uppercase() {
 //     document.getElementById("input-field").value = document.getElementById("input-field").value.toUpperCase();
 // }
 
-
-// let num = 3;
-// let text = "";
-// while (num != Infinity) {
-//     num = num * num;
-//     text += num + "<br>";
-// }
-// document.getElementsByClassName("text")[0].innerHTML = text
 // console.log(text)
 
 // {
